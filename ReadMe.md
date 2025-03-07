@@ -30,7 +30,6 @@ This project improves upon a standard RAG system with:
 
 ✅ **Modular Design** – Extracted RAG system into a shared module for reuse.  
 ✅ **Common Query Interface** – Unified querying for PDFs and YouTube transcripts.  
-✅ **Slide Text Extraction** – Uses OCR to extract text from video slides.  
 ✅ **Manual Transcript Management** – Users can provide their own transcripts.  
 
 ---
